@@ -4,3 +4,6 @@ SELECT * FROM libros;
 
 
 SELECT * FROM usuarios;
+
+
+SELECT * FROM USUARIOS; 
